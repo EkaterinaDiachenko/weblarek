@@ -31,17 +31,16 @@
 
 
 ## Технологический стек:
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### Архитектура и подходы
+### Архитектура и подходы:
 ![OOP](https://img.shields.io/badge/ООП-007ACC?style=for-the-badge)
 ![MVP](https://img.shields.io/badge/MVP-764ABC?style=for-the-badge)
 
-## Основной функционал
+## Основной функционал:
 - Каталог товаров: карточки с изображением, названием, категорией и ценой.
 - Детали товара: просмотр описания в модальном окне.
 - Корзина: добавление и удаление товаров, подсчёт количества и общей стоимости.
